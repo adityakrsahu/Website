@@ -4,7 +4,13 @@
   }
   
   .dark {
-    background-color: black;
-    color: white;
+    background-color: #a5a5b5;
+    color: #302b2b;
+    padding-bottom: 50px;
+}
+#but{
+    margin-left: 750px;
+    margin-top: 6px;
+
 }
   

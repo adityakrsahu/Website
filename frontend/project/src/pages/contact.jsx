@@ -1,12 +1,11 @@
 import React from 'react'
 
-function Textfrom() {
+function Contact() {
   return (
     <>
- 
-      
+  
     </>
   )
 }
 
-export default Textfrom;
+export default Contact
