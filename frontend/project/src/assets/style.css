@@ -17,7 +17,7 @@
 
 /* --------------==========="about" */
 .about{
-background-color: #070707;  
+background-color: #272727;;  
 padding-bottom: 150px;
 color: white;
 padding-top: 100px;
@@ -35,4 +35,19 @@ padding-top: 100px;
 .cont{
   margin-left: '270px'; 
   color: rgb(14 42 253);
+}
+
+
+/* ======================"resume"========= */
+
+
+.resume{
+  color: #142199;
+  
+}
+
+
+.resume{
+  background-color: black;
+  color: white;
 }
