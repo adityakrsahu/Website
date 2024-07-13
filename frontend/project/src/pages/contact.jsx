@@ -8,9 +8,9 @@ function Contact() {
           <div className="container h-100">
             <div className="row d-flex justify-content-center align-items-center h-100">
               <div className="col-lg-12 col-xl-11">
-                <div className="card text-black" style={{ borderRadius: '25px' }}>
+                <div className="card text-black Radius ">
                   <div className="card-body p-md-5">
-                    <h1 style={{ marginLeft: '270px', color: 'rgb(14 42 253)' }}>CONTACT ME !</h1>
+                    <h1 className="cont" >CONTACT ME !</h1>
                     <div className="row justify-content-center">
 
 
