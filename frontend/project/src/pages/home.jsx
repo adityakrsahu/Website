@@ -22,6 +22,7 @@ function Home() {
     </div>
     <div>
         <Link to="/">Download Resume !</Link>
+        
     </div>
       </div>
     </>
